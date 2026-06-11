@@ -1,0 +1,22 @@
+# Data
+data/raw/
+data/processed/
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.env
+
+# Power BI temp
+*.pbix.tmp
+
+# OS
+.DS_Store
+Thumbs.db
